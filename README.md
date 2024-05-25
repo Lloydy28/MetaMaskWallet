@@ -1,6 +1,13 @@
-# Starter Next/Hardhat Project
+## Project Title
+Function Frontend
 
+## Description
+Starter Next/Hardhat Project
 After cloning the github, you will want to do the following to get the code running on your computer.
+
+
+### Executing program
+
 
 1. Inside the project directory, in the terminal type: npm i
 2. Open two additional terminals in your VS code
@@ -10,3 +17,10 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+
+## Authors
+
+National Teachers College  
+John Lloyd B. Tenefrancia
+8215176@ntc.edu.ph
